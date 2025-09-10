@@ -4,7 +4,7 @@ A simple AI-powered chatbot built for Iron Lady’s AI & Technology internship t
 
 ## 🚀 Tech Stack / Tools Used
 
-## Backend:
+### Backend:
 - Python 3.10+
 - FastAPI – backend framework
 - Uvicorn – ASGI server
@@ -12,7 +12,7 @@ A simple AI-powered chatbot built for Iron Lady’s AI & Technology internship t
 - dotenv – environment variables
 - CORS Middleware – allow frontend communication
 
-## Frontend:
+### Frontend:
 - React 18 + Vite
 - Tailwind CSS – UI styling
 
@@ -26,11 +26,11 @@ Answers FAQs about Iron Lady’s programs:
 - Mentors & coaches
 
 ## ▶️ How to Run
-## Backend
+### Backend
 
 1. Clone repo & navigate to backend:
-   '''git clone https://github.com/fidafi123/IL_Chatbot.git'''
-   '''cd IL_chatbot/backend'''
+   git clone https://github.com/fidafi123/IL_Chatbot.git                                                                                                                                                                                         
+   cd IL_chatbot/backend
 2. Create a virtual environment and activate:
 3. Install dependencies:
    pip install -r requirements.txt
@@ -39,7 +39,7 @@ Answers FAQs about Iron Lady’s programs:
 5. Run FastAPI app:
    uvicorn app:app --reload
 
-## Frontend
+### Frontend
 
 1. Navigate to frontend folder:
    cd ../Frontend/chatbot
